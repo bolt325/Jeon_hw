@@ -27,6 +27,7 @@ l_{m1} & l_{m2} & \cdots & l_{mn}
 선형 변환의 행렬 표현
 
 행렬 표기법은 다음과 같습니다 :
+
 \[
 \begin{pmatrix}
 l_{11}a_1 + l_{12}a_2 + \cdots + l_{1n}a_n \\
